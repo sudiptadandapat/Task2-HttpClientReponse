@@ -1,1 +1,7 @@
 /* You can add global styles to this file, and also import other style files */
+/* @import "~bootstrap/dist/css/bootstrap.css"; */
+/* @import "~jquery/dist/jquery.slim.js"; */
+/* @import "~popper.js/dist/umd/popper.js"; */
+/* @import "~bootstrap/dist/js/bootstrap.js"; */
+
+@import '~bootstrap/dist/css/bootstrap.min.css'
