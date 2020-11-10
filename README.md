@@ -1,6 +1,6 @@
 # Angular Project on HttpClient Request
 
-In this Project, I create a weather app using Angular, Bootstrap, and the APIXU API. Here , we can type a location into a search bar and on submission of that, see the current weather details for that location displayed in our app. The Angular version used in this project is 10.1.6 and the Bootstrap version used is 4.5.1
+In this Project, I create a weather app using Angular, Bootstrap, and the APIXU API. Here , we can type a location into a search bar and on submission of that, see the current weather details for that location displayed in our app. The Angular version used in this project is 10.1.6 and the Bootstrap version used is 4.5.3.
 
 
 ## APIXU
@@ -30,7 +30,7 @@ Now, start the application with the ng serve command to check that everything is
 
 Open src/app/app.component.html to access HTML code. Delete the content that is currently in the file, and then add the required code:
 
-I created a <div> with class container to hold all content,which into two sections of six columns each. The left-hand side will hold search form and the right, the weather data.
+I created a div tag with class container to hold all content,which into two sections of six columns each. The left-hand side will hold search form and the right, the weather data.
 
 In first half, I also add a button that will submit what you’ve typed search input to APIXU, which will then return the requested weather details.
 
